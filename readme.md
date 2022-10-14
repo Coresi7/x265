@@ -9,3 +9,6 @@ To report a bug due to patches, create a new issue here. To report a x265 bug, p
 x265 is free to use under the [GNU GPL](https://www.gnu.org/licenses/gpl-2.0.html) and is also available under a commercial license.
 
 Sync status: Commit [20255e6](https://bitbucket.org/multicoreware/x265_git/commits/20255e6f0ead5b2ef65a520f202cedd5965f8541) at 2022-07-06
+
+
+This repo is archived, go to https://github.com/Coresi7/x265-Yuuki-Asuna for latest updates.
